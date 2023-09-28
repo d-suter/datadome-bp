@@ -1,0 +1,25 @@
+{
+  "name": "datadome-bp",
+  "version": "1.0.0",
+  "description": "More complex bypass than https://github.com/ceodavee/footlocker-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceodavee/datadome-bp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceodavee/datadome-bp/issues"
+  },
+  "homepage": "https://github.com/ceodavee/datadome-bp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
