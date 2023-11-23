@@ -82,4 +82,4 @@ This project was operational about 0.5 years ago from the time of this documenta
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=d-suter/d-suter,d-suter/datadome-bp&type=Date)](https://star-history.com/#d-suter/d-suter&d-suter/datadome-bp&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=d-suter/datadome-bp&type=Date)](https://star-history.com/#d-suter/datadome-bp&Date)
