@@ -79,3 +79,7 @@ In one of my older projects, [Footlocker Bot](https://github.com/ceodavee/footlo
 ## Disclaimer
 
 This project was operational about 0.5 years ago from the time of this documentation. It may not be working anymore as it has not been tested recently. Please try and verify it in your environment, and use it responsibly, respecting all relevant laws and website terms of service. 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=d-suter/d-suter,d-suter/datadome-bp&type=Date)](https://star-history.com/#d-suter/d-suter&d-suter/datadome-bp&Date)
