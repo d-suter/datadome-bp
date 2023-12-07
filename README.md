@@ -82,4 +82,11 @@ This project was operational about 0.5 years ago from the time of this documenta
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=d-suter/datadome-bp&type=Date)](https://star-history.com/#d-suter/datadome-bp&Date)
+<a href="https://star-history.com/#d-suter/datadome-bp&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=d-suter/datadome-bp&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=d-suter/datadome-bp&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=d-suter/datadome-bp&type=Date" />
+  </picture>
+</a>
+
