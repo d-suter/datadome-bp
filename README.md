@@ -1,3 +1,5 @@
+[![Banner](banner.png)](https://www.capsolver.com/?utm_source=github&utm_medium=repo&utm_campaign=scraping&utm_term=datadome-bp)
+
 # DataDome Cookie Generator
 
 DataDome Cookie Generator is a project designed to interact with [DataDome's API](https://www.datadome.co/) to generate secure cookies. DataDome is a renowned solution specializing in bot mitigation and protecting websites from various malicious activities. This project aimed to aid interactions with sites that utilize DataDome for protection, such as `footlocker.com`, `asus.com`, `mcdonalds.com` and so on.
