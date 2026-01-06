@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ceodavee/datadome-bp#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.0",
+    "express": "^4.22.1",
     "node-fetch": "^3.3.2"
   }
 }
